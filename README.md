@@ -1,5 +1,13 @@
 # Invest Simulator
 
+## Heroku Demo
+
+The demo can be found using [this link](https://invest-simulator-23.herokuapp.com/).
+Test User:
+
+- **username**: test-user 
+- **password**: wuqgoj-hibgix-7Bysza
+
 Aplicación web orientada al público general que simula inversiones en tiempo real.
 
 # Integrantes:
